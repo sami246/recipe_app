@@ -41,10 +41,10 @@ function Popular() {
         <Wrapper>
             <h3>Popular Picks</h3>
             <Splide options={{
-                perPage: 4.5,
+                perPage: 4,
                 arrows: false,
                 pagination: false,
-                drage: 'free',
+                drag: 'free',
                 gap: '5rem'
             }}>
 
